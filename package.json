@@ -1,6 +1,6 @@
 {
   "name": "oro-tail",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "returns the tail of a list",
   "main": "index.js",
   "repository": "github.com/orodio/oro-tail",
